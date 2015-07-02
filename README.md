@@ -1,2 +1,2 @@
 # Airports
-Airports IATA codes Json File 
+Airports IATA codes
